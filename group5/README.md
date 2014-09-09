@@ -8,8 +8,8 @@ Go to website.
 
 [Group Mascot]
 
-Group Name:
+Group Name:wild cat
 
 Members:
-* Member 1
-* Member 2
+* baishali pujari
+* rohit saraogi
